@@ -43,7 +43,12 @@ Perfect for use from a **live environment** when your motherboard fails to detec
     cd Auto-GRUB-Repair-Script
     ```
 
-3. **Run the script**
+3. **Make Executable The Script**
+    ```bash
+    chmod +x auto-grub-repair-script.sh
+    ```
+
+4. **Run the script**
     ```bash
     ./auto-grub-repair-script.sh
     ```
