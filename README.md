@@ -1,16 +1,34 @@
 # Auto-GRUB-Repair-Script (GRUBU)
 
-A simple script that **automatically mounts partitions** and **reinstalls GRUB** to restore your system’s bootloader.  
+`1.0 Stable`
+
+- A simple script that **automatically mounts partitions** and **reinstalls GRUB** to restore your system’s bootloader.  
 Perfect for use from a **live environment** when your motherboard fails to detect the bootloader.
 
 ---
 
-## ✅ Supported Distributions
-- **Arch Linux**
-- **EndeavourOS**
-- **Debian**
-- **Ubuntu**
-- **Fedora**
+## 🚀 Features
+- **Multi‑distro support** with automatic detection
+- **UEFI or BIOS** boot mode selection
+- **Interactive safety prompts** before making changes
+- **Motherboard/system info** display
+- **Execution time summary**
+- **ASCII art + color‑coded output** for style
+- **Reboot option** at the end
+  
+## 🖥 Supported Distributions
+
+| Distribution  | UEFI Support | BIOS Support |
+|---------------|--------------|--------------|
+| Arch Linux    | ✅           | ✅           |
+| EndeavourOS   | ✅           | ✅           |
+| CachyOS       | ✅           | ✅           |
+| Debian        | ✅           | ✅           |
+| Ubuntu        | ✅           | ✅           |
+| Fedora        | ✅           | ✅           |
+| openSUSE      | ✅           | ✅           |
+| NixOS         | ✅           | ✅           |
+
 
 ---
 
