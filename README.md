@@ -7,6 +7,8 @@ Perfect for use from a **live environment** when your motherboard fails to detec
 
 ---
 
+Please Upgrade to boot-repair https://github.com/AndresDev859674/boot-repair
+
 ## 🚀 Features
 - **Multi‑distro support** with automatic detection
 - **UEFI or BIOS** boot mode selection
